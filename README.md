@@ -1,2 +1,2 @@
 # data_mining
-数据挖掘
+[XGBoost和LightGBM参数以及调参介绍](https://www.jianshu.com/p/1100e333fcab)

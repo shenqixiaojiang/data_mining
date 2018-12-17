@@ -1,0 +1,5 @@
+1、安装依赖numpy，sklearn，pandas，python2.7
+2、安装ipython notebook
+3、读取比赛提供的csv文件，然后保存到numpy的过程，建议使用服务器运行。普通笔记本可能会出现内存溢出的情况。
+4、代码中有对程序的注释说明。
+5、本比赛代码的核心思想将在README.md 中进行说明。
